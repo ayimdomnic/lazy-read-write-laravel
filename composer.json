@@ -1,0 +1,20 @@
+{
+    "name": "ayimdomnic/laravel-lazy-read-write",
+    "description": "A simpler way to optimize your database performance",
+    "type": "laravel-package",
+    "require": {
+        "illuminate/support": "^5.8"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ayimdomnic",
+            "email": "ayimdomnic@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Ayimdomnic\\LazySql" : "src/"
+        }
+    }
+}

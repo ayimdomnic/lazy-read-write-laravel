@@ -1,10 +1,11 @@
 <?php
 
 
-namespace Ayimdomnic\LazySql;
+namespace Ayimdomnic\LazySql\Logic;
 
 class Config
 {
+
     /**
      * @param array $config
      * @return bool

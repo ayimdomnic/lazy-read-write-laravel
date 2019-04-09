@@ -1,7 +1,10 @@
 <?php
 
 
-class ServiceProvider
+namespace Ayimdomnic\LazySql;
+
+
+class ServiceProvider  extends BaseServiceProvider
 {
 
 }
