@@ -3,7 +3,10 @@
     "description": "A simpler way to optimize your database performance",
     "type": "laravel-package",
     "require": {
-        "illuminate/support": "^5.8"
+        "illuminate/support": "^5.8",
+        "illuminate/container": "^5.8",
+        "illuminate/database": "^5.8",
+        "illuminate/events": "^5.8"
     },
     "license": "MIT",
     "authors": [
